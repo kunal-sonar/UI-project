@@ -1,0 +1,12 @@
+
+  #hidden{max-height :200px;overflow: auto;}
+  .abc{max-width: 80px;max-height: 40px}
+  #AB{background-color: black;}
+  .wh{color: white;}
+  .container{margin-top: 30px;}
+  h1,h2,h3,h4,h5,h6{ font-family: Segoe Script; }
+  body{background-color: lightgray;}
+  .sb{border-radius: 40px; padding: 0px 15px;}
+  .event-gallery img{max-width: 200px;max-height: 100px;}
+  td img {max-width: 150px;max-height: 100px;}
+  clients-img img{width: 120px;height: 50px;}
